@@ -38,7 +38,7 @@ Built with **Laravel (Sanctum Authentication)** for the backend and **Vue 3 + Vi
 ##  Tech Stack
 
 ### Backend
-- **Laravel 10**
+- **Laravel 12**
 - **Laravel Sanctum** (Authentication)
 - **MySQL** (Database)
 - **Eloquent ORM**
