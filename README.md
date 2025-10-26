@@ -80,7 +80,10 @@ How It Works
 - Backend prevents duplicate entries with the same (category, date, and value).
 
 - Clear error/success messages displayed to the user.
+---
+*Demo Link:*
 
+https://drive.google.com/drive/folders/1eP1Q6qQ-okUOlEZW3J8hX1l-b6DgDF9Z
 ---
 
 ## API Documentation
@@ -137,4 +140,3 @@ Base URL (local development):
 Authorization: Bearer <your_token_here>
 Accept: application/json
 Content-Type: application/json
-
